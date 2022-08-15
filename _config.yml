@@ -28,7 +28,8 @@ twitter_username: verishi28
 github_username:  verma.rishirv
 
 # Build settings
-theme: minima
+# Removed theme as it is copied locally now and no lonnger required
+#theme: minima
 plugins:
   - jekyll-feed
 
